@@ -1,5 +1,5 @@
 _repo: Business-Hints-for-Men-and-Women_6167
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcc 'HF'
 - !lcsh 'Commercial law -- United States'
 - !lcsh 'Business'
+- GITenberg
 title: Business Hints for Men and Women
 url: http://www.gutenberg.org/ebooks/6167
